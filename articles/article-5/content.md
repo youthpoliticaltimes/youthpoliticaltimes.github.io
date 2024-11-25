@@ -1,4 +1,13 @@
 ---
+title: "Revival of Ancient Cooking Techniques"
+date: 2023-10-01
+tags:
+  - Culinary Arts
+  - Traditional Cooking
+  - Food Culture
+  - Sustainability
+  - Heritage Cuisine
+---
 
 The quiet sizzle of fermented vegetables hitting hot stone bowls and the gentle bubble of century-old bone broths are making a surprising comeback in restaurants worldwide. As modern dining evolves, chefs and food historians are leading a remarkable return to ancient cooking methods, discovering that our ancestors might have known more about flavor and nutrition than we previously thought.
 
