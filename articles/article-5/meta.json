@@ -4,5 +4,7 @@
     "authors": ["Marco Rossi", "Jennifer Chen"],
     "date": "2025-02-28",
     "topImage": "news4.webp",
-    "imageCaption": "Ancient clay pot cooking demonstration at the International Culinary Heritage Festival"
+    "imageCaption": "Ancient clay pot cooking demonstration at the International Culinary Heritage Festival",
+    "category": "Food",
+    "readingTime": 7
 }

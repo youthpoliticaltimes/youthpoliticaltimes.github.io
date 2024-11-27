@@ -1,9 +1,10 @@
 {
-    "title": "The Future of Artificial Intelligence",
-    "subtitle": "Exploring the impact of AI on society",
-    "authors": ["John Doe"],
-    "date": "2025-09-15",
-    "topImage": "news3.webp",
-    "imageCaption": "",
-    "category": "Technology"
+    "title": "Breaking Records: The Evolution of Modern Athletics",
+    "subtitle": "How technology and training methods are transforming sports",
+    "authors": ["Sarah Wilson", "Mike Thompson"],
+    "date": "2025-08-20",
+    "topImage": "news5.webp",
+    "imageCaption": "Athletes training with advanced monitoring equipment",
+    "category": "Sports",
+    "readingTime": 14
 }
