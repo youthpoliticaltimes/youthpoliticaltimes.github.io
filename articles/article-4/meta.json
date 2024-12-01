@@ -5,6 +5,8 @@
     "date": "2025-03-15",
     "topImage": "news9.webp",
     "imageCaption": "Advanced submarine exploring deep ocean trenches",
-    "category": "Environment",
+    "topics": ["Environment", "Science"],
+    "reach": "international",
+    "type": "News in Brief",
     "readingTime": 27
 }

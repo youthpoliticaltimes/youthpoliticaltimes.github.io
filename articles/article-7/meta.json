@@ -5,6 +5,8 @@
     "date": "2025-03-15",
     "topImage": "news2.webp",
     "imageCaption": "Students gather for climate strike in front of Parliament",
-    "category": "Environment",
+    "topics": ["Environment", "Activism"],
+    "reach": "international",
+    "type": "Op-Ed",
     "readingTime": 17
 }

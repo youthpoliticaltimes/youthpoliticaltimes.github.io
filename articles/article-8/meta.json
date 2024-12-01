@@ -5,6 +5,8 @@
     "date": "2025-03-15",
     "topImage": "news8.webp",
     "imageCaption": "Artist's rendering of proposed Mars colony",
-    "category": "Technology",
+    "topics": ["Technology", "Space"],
+    "reach": "international",
+    "type": "News in Brief",
     "readingTime": 12
 }

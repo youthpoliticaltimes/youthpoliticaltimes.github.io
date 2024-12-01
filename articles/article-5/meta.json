@@ -5,6 +5,8 @@
     "date": "2025-02-28",
     "topImage": "news4.webp",
     "imageCaption": "Ancient clay pot cooking demonstration at the International Culinary Heritage Festival",
-    "category": "Food",
+    "topics": ["Food", "Culture"],
+    "reach": "local",
+    "type": "Op-Ed",
     "readingTime": 7
 }

@@ -5,6 +5,8 @@
     "date": "2024-12-15",
     "topImage": "news2.webp",
     "imageCaption": "A quantum computer at a research facility",
-    "category": "Technology",
+    "topics": ["Technology", "Science"],
+    "reach": "international",
+    "type": "Seeing Both Sides",
     "readingTime": 22
 }

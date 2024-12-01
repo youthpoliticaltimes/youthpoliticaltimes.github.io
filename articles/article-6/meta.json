@@ -5,6 +5,8 @@
     "date": "2025-08-20",
     "topImage": "news5.webp",
     "imageCaption": "Athletes training with advanced monitoring equipment",
-    "category": "Sports",
+    "topics": ["Sports", "Technology"],
+    "reach": "domestic",
+    "type": "Seeing Both Sides",
     "readingTime": 14
 }
