@@ -1,12 +1,12 @@
 {
-    "title": "Youth Climate Movement: A Global Force",
-    "subtitle": "How Gen Z is reshaping environmental activism",
-    "authors": ["Emma Chen", "Marcus Rivera"],
-    "date": "2025-03-15",
-    "topImage": "news2.webp",
-    "imageCaption": "Students gather for climate strike in front of Parliament",
-    "topics": ["Environment", "Activism"],
-    "reach": "international",
-    "type": "Op-Ed",
-    "readingTime": 17
+    "title": "Student Debt Crisis: Is Higher Education Worth the Cost?",
+    "subtitle": "A critical look at the rising costs of higher education and its impact on young adults",
+    "authors": ["Sarah Williams", "Emma Clarke"],
+    "date": "2024-06-25",
+    "topImage": "news5.webp",
+    "imageCaption": "Student with graduation cap and gown looking concerned about a student loan bill",
+    "topics": ["Education", "Economy", "Social Issues"],
+    "reach": "domestic",
+    "type": "Seeing Both Sides",
+    "readingTime": 25
 }

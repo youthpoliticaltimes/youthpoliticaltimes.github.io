@@ -1,12 +1,12 @@
 {
-    "title": "Mars Colony Plans Accelerate",
-    "subtitle": "International Space Agencies Announce Ambitious Timeline",
-    "authors": ["Michael Chang", "Sarah Anderson"],
-    "date": "2025-03-15",
-    "topImage": "news8.webp",
-    "imageCaption": "Artist's rendering of proposed Mars colony",
-    "topics": ["Technology", "Space"],
+    "title": "The Rise of Youth Activism: From Marches to Movements",
+    "subtitle": "Highlighting the recent surge in youth-led activism and its influence on policy and society",
+    "authors": ["Maria Santos", "Anna Lee"],
+    "date": "2024-06-26",
+    "topImage": "news6.webp",
+    "imageCaption": "Group of young people holding protest signs and marching",
+    "topics": ["Activism", "Social Issues", "Governance"],
     "reach": "international",
-    "type": "News in Brief",
-    "readingTime": 12
+    "type": "Op-Ed",
+    "readingTime": 22
 }
