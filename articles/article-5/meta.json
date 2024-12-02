@@ -1,12 +1,12 @@
 {
-    "title": "The Renaissance of Traditional Cuisine",
-    "subtitle": "How Ancient Cooking Methods Are Reshaping Modern Dining",
-    "authors": ["Marco Rossi", "Jennifer Chen"],
-    "date": "2025-02-28",
-    "topImage": "news4.webp",
-    "imageCaption": "Ancient clay pot cooking demonstration at the International Culinary Heritage Festival",
-    "topics": ["Food", "Culture"],
-    "reach": "local",
+    "title": "Climate Change Education in Schools: Empowering the Next Generation",
+    "subtitle": "Analyzing the effectiveness of current climate education programs and suggesting improvements",
+    "authors": ["Maria Santos", "Anna Lee"],
+    "date": "2024-06-23",
+    "topImage": "news3.webp",
+    "imageCaption": "Students participating in a climate change protest",
+    "topics": ["Environment", "Education"],
+    "reach": "domestic",
     "type": "Op-Ed",
-    "readingTime": 7
+    "readingTime": 22
 }

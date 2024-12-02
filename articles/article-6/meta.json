@@ -1,12 +1,12 @@
 {
-    "title": "Breaking Records: The Evolution of Modern Athletics",
-    "subtitle": "How technology and training methods are transforming sports",
-    "authors": ["Sarah Wilson", "Mike Thompson"],
-    "date": "2025-08-20",
-    "topImage": "news5.webp",
-    "imageCaption": "Athletes training with advanced monitoring equipment",
-    "topics": ["Sports", "Technology"],
-    "reach": "domestic",
+    "title": "Voting Rights and Youth Turnout: Breaking Down Barriers",
+    "subtitle": "Investigating the challenges young voters face and exploring ways to increase youth voter turnout",
+    "authors": ["David Martinez", "James Morton"],
+    "date": "2024-06-24",
+    "topImage": "news4.webp",
+    "imageCaption": "Young people standing in line to vote",
+    "topics": ["Governance", "Rights"],
+    "reach": "local",
     "type": "Seeing Both Sides",
-    "readingTime": 14
+    "readingTime": 16
 }

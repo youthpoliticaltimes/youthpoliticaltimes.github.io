@@ -1,12 +1,12 @@
 {
-    "title": "Space Tourism Takes Flight",
-    "subtitle": "The era of civilian space travel begins",
-    "authors": ["Sarah Chen"],
-    "date": "2022-01-15",
-    "topImage": "news4.webp",
-    "imageCaption": "SpaceX civilian launch",
-    "topics": ["Technology", "Travel"],
-    "reach": "international",
-    "type": "News in Brief",
-    "readingTime": 7
+    "title": "Youth Mental Health Crisis: A Call for Policy Change",
+    "subtitle": "Examining the rising rates of anxiety and depression among youth and proposing policy solutions",
+    "authors": ["David Martinez", "Sarah Williams"],
+    "date": "2024-06-21",
+    "topImage": "news1.webp",
+    "imageCaption": "Silhouette of a person looking distressed",
+    "topics": ["Mental Health", "Social Issues"],
+    "reach": "domestic",
+    "type": "Seeing Both Sides",
+    "readingTime": 20
 }

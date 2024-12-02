@@ -1,12 +1,12 @@
 {
-    "title": "Mysteries of the Deep Ocean",
-    "subtitle": "Discovering new species in unexplored marine environments",
-    "authors": ["Dr. Robert Martinez", "Emma Waters"],
-    "date": "2025-03-15",
-    "topImage": "news9.webp",
-    "imageCaption": "Advanced submarine exploring deep ocean trenches",
-    "topics": ["Environment", "Science"],
+    "title": "The Future of Work: Automation and its Impact on Young Workers",
+    "subtitle": "Discussing how automation will affect job opportunities for the youth and what skills will be needed",
+    "authors": ["James Morton", "Emma Clarke"],
+    "date": "2024-06-22",
+    "topImage": "news2.webp",
+    "imageCaption": "Robotic arm working alongside human hands",
+    "topics": ["Economy", "Future of Work"],
     "reach": "international",
-    "type": "News in Brief",
-    "readingTime": 27
+    "type": "Just the Facts",
+    "readingTime": 18
 }

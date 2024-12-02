@@ -1,12 +1,12 @@
 {
-    "title": "Exploring Quantum Computing",
-    "subtitle": "The future of computational power",
-    "authors": ["Dr. Sarah Chen", "Mark Thompson"],
-    "date": "2024-12-15",
-    "topImage": "news2.webp",
-    "imageCaption": "A quantum computer at a research facility",
-    "topics": ["Technology", "Science"],
+    "title": "The Impact of Social Media on Youth Political Engagement",
+    "subtitle": "How platforms like TikTok and Instagram are shaping political discourse among young people",
+    "authors": ["Emma Clarke", "Anna Lee"],
+    "date": "2024-06-20",
+    "topImage": "news.webp",
+    "imageCaption": "Young people using smartphones",
+    "topics": ["Technology", "Activism"],
     "reach": "international",
-    "type": "Seeing Both Sides",
-    "readingTime": 22
+    "type": "Op-Ed",
+    "readingTime": 15
 }
